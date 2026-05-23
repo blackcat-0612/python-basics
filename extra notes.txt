@@ -46,7 +46,3 @@ python3 Desktop/Python/filename.py
 One concept at a time — **practice each one** before moving to the next!
 
 Ready to start **Variables** now? 😊🐍
-
-
-
-https://ww25.soap2day.day
