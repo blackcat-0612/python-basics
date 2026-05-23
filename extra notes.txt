@@ -1,0 +1,52 @@
+code editor
+command 
+cd - change folder
+clear - clean terminal
+touch - create new file
+python3- run python file
+
+touch userinput.py
+Command + , --> quicksuggestions, edit setting json - to turnoff Intellisense
+
+---
+
+## 🖥️ Your Daily Setup (2 minutes)
+
+**Step 1 — Open Terminal and start Ollama:**
+```bash
+ollama run qwen2.5-coder
+```
+Use this for quick Python questions anytime!
+
+**Step 2 — Open VS Code:**
+- Open your `hello.py` or create a new `.py` file
+- Write your code
+- Run it in the VS Code terminal with:
+```bash
+python3 Desktop/Python/filename.py
+```
+
+---
+
+## 📚 Basic Concepts to Learn (in order)
+
+1. ✅ **Print & Hello World** ← you're here!
+2. 🔲 **Variables** ← next lesson
+3. 🔲 **Data Types** (text, numbers, true/false)
+4. 🔲 **User Input**
+5. 🔲 **If/Else** (making decisions)
+6. 🔲 **Loops** (repeating things)
+7. 🔲 **Functions** (reusable code)
+8. 🔲 **Lists** (storing multiple items)
+9. F-string formatiing
+
+---
+
+## 💡 Golden Rule
+One concept at a time — **practice each one** before moving to the next!
+
+Ready to start **Variables** now? 😊🐍
+
+
+
+https://ww25.soap2day.day
