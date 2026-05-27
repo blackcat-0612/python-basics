@@ -6,6 +6,8 @@ def calculate (num1, operator, num2):
     elif operator == "*":
         return num1 * num2
     elif operator == "/":
+        if num2 == 0:
+            return "Error cannot diveded by zero!"      #if user entered zero
         return num1 / num2
     else:
         return "Invalid operator"
@@ -18,7 +20,7 @@ while True:
     num2 = float(input("enter first number: "))
 
     result = calculate (num1, operator, num2)
-    print(f"Result: {num1} {operator} {num2} = {result: .2f}")
+    print(f"Result: {num1} {operator} {num2} = {result:}")
 
     again = input("Calculate again? (y/n): ")
     if again == "n":
