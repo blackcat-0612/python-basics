@@ -1,5 +1,6 @@
 # dictionaries
 # store data in key: value pairs
+# {} --> in f-string to insert a variables and store key value pairs 
 person = {"name": "Alicia", "age": 31, "city": "Shanghai","job": "Tech BA","language": "SQL, Python"}
 print(person["name"])
 print(person["age"])
