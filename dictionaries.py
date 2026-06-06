@@ -1,4 +1,5 @@
 # dictionaries
+# store data in key: value pairs
 person = {"name": "Alicia", "age": 31, "city": "Shanghai","job": "Tech BA","language": "SQL, Python"}
 print(person["name"])
 print(person["age"])
